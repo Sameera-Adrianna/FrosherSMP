@@ -1,2 +1,2 @@
-# FrosherSMP
-Repository For the frosherSMP
+# Page 1
+
